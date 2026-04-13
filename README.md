@@ -19,5 +19,4 @@ This project presents an interactive Amazon Sales dashboard built in Power BI.
 Amazon Sales dataset (CSV)
 
 ## Dashboard Preview
-Dashboard
 ![Amazon Sales Dashboard](dashboard.PNG)
